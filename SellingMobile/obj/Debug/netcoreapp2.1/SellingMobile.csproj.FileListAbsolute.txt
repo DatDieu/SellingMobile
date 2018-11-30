@@ -1,0 +1,14 @@
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\bin\Debug\netcoreapp2.1\SellingMobile.deps.json
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\bin\Debug\netcoreapp2.1\SellingMobile.runtimeconfig.json
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\bin\Debug\netcoreapp2.1\SellingMobile.runtimeconfig.dev.json
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\bin\Debug\netcoreapp2.1\SellingMobile.dll
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.csprojAssemblyReference.cache
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.csproj.CoreCompileInputs.cache
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.RazorAssemblyInfo.cache
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.RazorAssemblyInfo.cs
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.AssemblyInfoInputs.cache
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.AssemblyInfo.cs
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.RazorTargetAssemblyInfo.cache
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\bin\Debug\netcoreapp2.1\SellingMobile.pdb
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.dll
+C:\Users\dat.dieu\source\repos\SellingMobile\SellingMobile\obj\Debug\netcoreapp2.1\SellingMobile.pdb
